@@ -1,0 +1,42 @@
+<mxfile host="Electron" modified="2023-06-08T18:30:46.381Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.3.7 Chrome/112.0.5615.204 Electron/24.5.0 Safari/537.36" etag="dUPaPz16gX0hzOSOpF9g" version="21.3.7" type="device">
+  <diagram name="Page-1" id="_Fhdnv1HlDRsAHxc1QbQ">
+    <mxGraphModel dx="891" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MooH1cbgpvNPMkbwLy4s-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.46;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MooH1cbgpvNPMkbwLy4s-1" target="MooH1cbgpvNPMkbwLy4s-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MooH1cbgpvNPMkbwLy4s-1" value="User Browser" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="352" y="200" width="97.5" height="97.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MooH1cbgpvNPMkbwLy4s-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=2;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MooH1cbgpvNPMkbwLy4s-2" target="MooH1cbgpvNPMkbwLy4s-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MooH1cbgpvNPMkbwLy4s-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MooH1cbgpvNPMkbwLy4s-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="405" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MooH1cbgpvNPMkbwLy4s-2" value="img-share-service" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="355" y="370" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="MooH1cbgpvNPMkbwLy4s-3" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.redis;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="388.5" width="60" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="MooH1cbgpvNPMkbwLy4s-5" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.s3;fillColor=#E05243;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="591.75" y="520" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="MooH1cbgpvNPMkbwLy4s-10" value="S3 (Blob Store)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="575" y="630" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MooH1cbgpvNPMkbwLy4s-11" value="Redis" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="605" y="460" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
